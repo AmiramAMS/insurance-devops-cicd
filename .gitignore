@@ -11,6 +11,11 @@ node_modules
 dist
 dist-ssr
 *.local
+dist
+.vscode
+coverage
+.claude
+node_modules
 
 # Runtime / generated files
 state.json

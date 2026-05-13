@@ -5,3 +5,6 @@ automation
 .lovable
 state.json
 *.log
+.vscode
+coverage
+.claude
